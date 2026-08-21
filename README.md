@@ -18,13 +18,6 @@ Within this repository, you will find my x86 program files, along with the suppl
 
 There is also a folder called Screenshots which contains the images used in my read me file.
 
-## Project Demo Video:
-Please find the link to a quick video showing the code running:
-
-https://setuo365-my.sharepoint.com/personal/c00306572_setu_ie/_layouts/15/stream.aspx?id=%2Fpersonal%2Fc00306572%5Fsetu%5Fie%2FDocuments%2FASSEMBLY%5FPROJECTII%5FDEMO%2Fdemo%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb4a02bd3%2Db50d%2D40c2%2Da480%2Da0f3385268fb
-
-I have made sure to grant view permissions. If there is any issues please let me know. 
-
 ## How to build and run the assembly project:
 As I am using a Linux machine, I already had the necessary tools installed, such as nasm and gcc, along with gdb.
 
